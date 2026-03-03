@@ -1,7 +1,6 @@
-Discord:
-https://discord.gg/BjFeGZBpWM
+Launcher:MultiMC
 
 
+Find the client in the release.
 
-
-Stay tuned for updates
+I need your stars QwQ
